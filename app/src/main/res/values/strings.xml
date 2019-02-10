@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UHelp</string>
+    <string name="newrequest">Новая заявка</string>
+    <string name="inworkrequest">Заявки в работе</string>
+    <string name="criticalrequest">Критичные задачи</string>
+    <string name="donerequest">Выполненные задачи</string>
+    <string name="searchrequest">Поиск заявок</string>
+    <string name="analiserequest">Анализ активности</string>
+    <string name="baseknowlege">База знаний</string>
+    <string name="settings">Установки</string>
+    <string name="contactus">Контакты</string>
+</resources>
