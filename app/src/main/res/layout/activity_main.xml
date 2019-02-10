@@ -61,7 +61,7 @@
         android:layout_height="48dp"
         android:drawableStart="@drawable/ic_baseknowledge"
         android:gravity="center|center_vertical"
-        android:text="@string/baseknowlege" />
+         />
 
     <Button
         android:id="@+id/button8"
